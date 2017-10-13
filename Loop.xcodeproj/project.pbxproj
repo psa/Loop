@@ -1949,7 +1949,7 @@
 				INFOPLIST_FILE = Loop/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				"OTHER_SWIFT_FLAGS[sdk=iphonesimulator*]" = "-D IOS_SIMULATOR";
-				PRODUCT_BUNDLE_IDENTIFIER = erzsi.loop.carb.dev.Loop;
+				PRODUCT_BUNDLE_IDENTIFIER = erzsi.loop.dev.Loop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -1965,7 +1965,7 @@
 				DEVELOPMENT_TEAM = 9EUDN3P2TC;
 				INFOPLIST_FILE = Loop/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = erzsi.loop.carb.dev.Loop;
+				PRODUCT_BUNDLE_IDENTIFIER = erzsi.loop.dev.Loop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -2018,7 +2018,7 @@
 				IBSC_MODULE = WatchApp_Extension;
 				INFOPLIST_FILE = WatchApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = erzsi.loop.carb.dev.Loop.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = erzsi.loop.dev.Loop.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = watchos;
@@ -2038,7 +2038,7 @@
 				IBSC_MODULE = WatchApp_Extension;
 				INFOPLIST_FILE = WatchApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = erzsi.loop.carb.dev.Loop.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = erzsi.loop.dev.Loop.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = watchos;
