@@ -11,7 +11,7 @@ import LoopKit
 struct LoopSettings {
     var dosingEnabled = false
 
-    let dynamicCarbAbsorptionEnabled = false
+    let dynamicCarbAbsorptionEnabled = true
 
     var glucoseTargetRangeSchedule: GlucoseRangeSchedule?
 
