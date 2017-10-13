@@ -19,8 +19,8 @@ final class AddCarbsInterfaceController: WKInterfaceController, IdentifiableClas
                 return
             }
 
-            guard carbValue <= 100 else {
-                carbValue = 100
+            guard carbValue <= 300 else {
+                carbValue = 300
                 return
             }
 
